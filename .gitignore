@@ -1,0 +1,22 @@
+# Virtual environment — NEVER commit this. Recreate it with requirements.txt.
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Generated transcriptions (user data, not code)
+transcripciones/*.md
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+
+# Agent tooling
+.atl/

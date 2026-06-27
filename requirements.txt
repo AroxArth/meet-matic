@@ -1,0 +1,5 @@
+faster-whisper>=1.2.0
+soundcard>=0.4.6
+sounddevice>=0.5.0
+customtkinter>=5.2.2
+numpy>=2.0
