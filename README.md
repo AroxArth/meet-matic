@@ -105,4 +105,4 @@ transcriptor/
   escritor.py      # genera el .md
   grabador.py      # orquestador (une todo)
   ui.py            # interfaz CustomTkinter
-```
+``` 
