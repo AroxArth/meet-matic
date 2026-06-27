@@ -106,3 +106,8 @@ transcriptor/
   grabador.py      # orquestador (une todo)
   ui.py            # interfaz CustomTkinter
 ```
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia [MIT](LICENSE): podés usarlo,
+modificarlo y compartirlo libremente, solo manteniendo el aviso de copyright.
